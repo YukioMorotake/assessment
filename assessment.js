@@ -84,5 +84,5 @@
 
     console.log(assessment('田中'));
     console.log(assessment('次郎'));
-    console.log(assessment('ダビデ'));
+
 })();
